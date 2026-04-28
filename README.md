@@ -1,5 +1,30 @@
 # Bootcamp-DA-P2-proyecto2-analysis-python
 
+# Procesamiento y Limpieza de Datos: Kiva Crowdfunding 🚀
+
+*Autores:* Ana Paula Montiel & Yasira Blanco
+
+Este proyecto aplica las mejores prácticas de limpieza y preparación de datos utilizando Python. El objetivo es transformar los datos brutos del dataset "Data Science for Good: Kiva Crowdfunding" en un conjunto de datos estructurado y consistente, listo para análisis avanzado o modelado predictivo.
+
+---
+
+## 🎯 Objetivos del Proyecto
+- **Corregir** tipos de datos, formatos de fecha y valores inconsistentes.
+- **Gestionar** duplicados y valores faltantes de forma documentada.
+- **Garantizar** la reproducibilidad mediante funciones automatizadas.
+- **Exportar** un artefacto final optimizado.
+
+---
+
+## 🧰 Tecnologías y Librerías
+- **Entorno:** Google Colab / Jupyter Notebook
+- **Librerías principales:** - `pandas` & `numpy`: Manipulación de datos.
+  - `missingno`: Visualización de valores faltantes.
+  - `seaborn` & `matplotlib`: Diagnóstico visual.
+
+El archivo podra ser descargado desde el siguiente enlace: 
+https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding
+
 Todo el proceso esta documentado en formato de comentarios para saber la utilidad de cada parte del codigo
 
 Análisis de Microcréditos de Kiva - Proyecto de Limpieza y ETL
